@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "title": "Sven Greb",
+  "version": "0.0.0",
+  "description": "The official website of Sven Greb",
+  "author": {
+    "name": "Sven Greb",
+    "email": "development@svengreb.de",
+    "url": "https://svengreb.de"
+  },
+  "homepage": "https://svengreb.de",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svengreb/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/svengreb/website/issues"
+  },
+  "private": true,
+  "license": "MIT",
+  "keywords": ["svengreb", "website", "documentation", "react"]
+}
